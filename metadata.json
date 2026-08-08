@@ -1,0 +1,6 @@
+{
+  "name": "Student AI Q&A Tutor",
+  "description": "AI-powered educational Q&A bot providing step-by-step explanations, code examples, calculations, and exam preparation across core subjects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
